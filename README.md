@@ -66,3 +66,19 @@ This visualization is Gender breakdown by week by hour. It highlights that the S
 </p>
 <hr>
 
+<h2>Summary: </h2>
+
+This analysis throws light on many of the factors critical to success of the bike share business model:
+
+- This shows that the bike share model can work really well in cities especially where many other businesses, companies and their offices are located within a short ride distance. The bike station locations should be at a ride duration of 10 minutes from each other as well as be near the public transport lines. As per the observed peak times, it is clear that people use bike sharing as the daily commute option to get to their workplaces. 
+- Gender breakdown throws light on the fact that the majority of customers are Males (65%) followed by Females (25%). This data can be useful for Marketing purposes.
+- There are two types in the userbase of the bike sharing service. Subscribers who are long term i.e. annuall subscription members and Customers are short term members. Further breakdown of Usertype by customers and subscribers tell us that Subscribers account for 81% of the userbase and Customers account for remaining 19%.
+
+<h3> Recommendations: <h3>
+There is scope for understanding the model better by visualizing the following data :
+
+  - The demographic data for NYC can be studied for the age wise data for users. The user data by age would help us understand 
+what age group uses the bike sharing services the most and this can be used to predict the success of this model in Des Moines by studying the city's demographic data.
+  
+  - One limitation of this analysis is present data and analysis stands for the month of August. Analysis for all the months for which bike share data is available will lead us to understand year round trends and success of the model. Also the weather based data analysis would unleash weather based trends in ridership.
+
