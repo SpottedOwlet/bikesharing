@@ -66,7 +66,7 @@ This visualization is Gender breakdown by week by hour. It highlights that the S
 </p>
 <hr>
 
-<h2>Summary: </h2>
+<h2>Summary </h2>
 
 This analysis throws light on many of the factors critical to success of the bike share business model:
 
@@ -74,7 +74,7 @@ This analysis throws light on many of the factors critical to success of the bik
 - Gender breakdown throws light on the fact that the majority of customers are Males (65%) followed by Females (25%). This data can be useful for Marketing purposes.
 - There are two types in the userbase of the bike sharing service. Subscribers who are long term i.e. annuall subscription members and Customers are short term members. Further breakdown of Usertype by customers and subscribers tell us that Subscribers account for 81% of the userbase and Customers account for remaining 19%.
 
-<h3> Recommendations: </h3>
+<h3> Recommendations </h3>
 There is scope for understanding the model better by visualizing the following data :
 
   - The demographic data for NYC can be studied for the age wise data for users. The user data by age would help us understand 
